@@ -1,0 +1,26 @@
+.flex{
+    display: flex;
+}
+.items-centre{
+    align-items: center;
+}
+.justify-centre{
+ justify-content: center;
+}
+.font-style{
+    font-family: roboto;
+    font-weight: bolder;
+}
+.space-around{
+    justify-content: space-between;
+}
+.pd-2{
+    margin-left: 12px;
+    margin-right: 12px;
+}
+.product{
+  margin-left: 0px;
+  margin-right: auto;
+  background-color: blue;
+  
+}
